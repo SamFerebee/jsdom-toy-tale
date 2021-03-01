@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "1",
+      "image": "https://static3.depositphotos.com/1000865/118/i/950/depositphotos_1183767-stock-photo-toy-car.jpg",
+      "likes": 10,
+      "id": 9
     }
   ]
 }
